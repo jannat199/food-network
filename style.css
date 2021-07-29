@@ -1,0 +1,80 @@
+body{
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-highlight{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font: 700;
+    color: white;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: center;
+}
+.half-width img{
+    width: 80%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: center;
+}
+section{
+    height: 600px;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    height: 700px;
+}
+.recipie-experience{
+    box-shadow: 7px 5px 7px grey;
+    border-radius: 10px;
+    height: 59%;
+    width: 23%;
+    background-color:honeydew;
+}
+.experience-area{
+    height: 600px;
+}
+.my-recipie{
+    text-align: center;
+}
+
+#thai-soup{
+        border-left: 10px solid;
+        border-right: 10px solid;
+        border-image: linear-gradient(180deg , salmon,blue);
+        border-image-slice: 1;
+    }
+#chicken-salad{
+    border-left: 10px solid;
+    border-right: 10px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+#mixed-icecream{
+    border-left: 10px solid;
+    border-right: 10px solid;
+    border-image: linear-gradient(180deg , salmon,blue);
+    border-image-slice: 1;
+}
+.extra-work{
+    background-color:darkslategray;
+    text-align: center;
+    color: floralwhite;
+    height: 300px;
+}
+.copy-wright{
+    text-align: center;
+    background-color: lightblue;
+}
